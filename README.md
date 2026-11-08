@@ -1,4 +1,4 @@
 # MLP from scratch
 
 Simple MLP kernel in C++ from scratch.
-Goal was to learn something new ofc.
+*(This was a highschool pet project)*
